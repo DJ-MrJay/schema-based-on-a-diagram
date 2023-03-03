@@ -115,7 +115,7 @@ Run <code>git clone https://github.com/DJ-MrJay/schema-based-on-a-diagram.git</c
 
 - GitHub: [@githubhandle](https://github.com/shuja-shah)
 - Twitter: [@twitterhandle](https://twitter.com/SyedShujaHussa3)
-- LinkedIn: [LinkedIn](https://linkedin.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shahshujahussa/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
